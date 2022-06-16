@@ -13,7 +13,7 @@
             android:value="Stop the Entrust IdentityGuard Mobile OTP application from detecting &quot;unsecured&quot; devices"/>
         <meta-data
             android:name="xposedminversion"
-            android:value="53"/>
+            android:value="82"/>
     </application>
 
 </manifest>
